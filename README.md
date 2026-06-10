@@ -2,7 +2,7 @@
 
 Software Developer with interests in Artificial Intelligence, Data Science, Backend Development, and Distributed Systems.
 
-Currently pursuing a Bachelor's degree in Computer Applications (BCA), with hands-on experience in machine learning, data analysis, secure communication systems, and blockchain-based applications.
+BCA graduate with experience in machine learning, data analysis, secure communication systems, and blockchain-based applications. Skilled in Java, Python, and problem-solving, with a focus on building scalable, data-driven, and secure software solutions.
 
 ## Technologies & Tools
 
